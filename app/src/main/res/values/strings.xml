@@ -7,4 +7,7 @@
     <string name="no_message">No... buuu...</string>
     <string name="yes">YES</string>
     <string name="no">NO</string>
+    <string name="open">Abrir Fragment</string>
+    <string name="close">Cerrar Fragment</string>
+
 </resources>
