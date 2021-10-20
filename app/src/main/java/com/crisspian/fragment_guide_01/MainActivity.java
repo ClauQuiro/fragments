@@ -13,8 +13,11 @@ public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding Binding;
     private boolean isFragmentDisplayed = false;
+    private BlankFragment blankFragment;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initBinding();
